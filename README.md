@@ -22,7 +22,7 @@
     <p align=centre>в лесу родилась <image src="елка.jpg"> <!-- выравнивание текста типо align там стороны еще можно margin можно padding  --></image><i>елочка</i><br> в лесу она росла.</font><br>
         <font face="Courier new">
     <u>зимой и летом стройная </u> <br><font color="green">зеленая
-    </p></font> была.<br></p>
+    </p></font> была.
     <p align=justify><b>Метель</b> ей пела песененку:<br>
         <font face="Monotype corsiva">
         "спи,елочка бай бай"</font><br>  
