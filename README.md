@@ -16,7 +16,7 @@
     <font color="ffff00"></font>
     <h1 align=left>Меня зовут Слава и аружан</h1>
     <h2 align=center>Мы учимся в 11 классе</h2>
-    <h3 align=right><MARQUEE scrollDelay="28" behavior="alternate" bgcolor="gold" height="66"font color="#ff0000">Это моя любимая песенка</MARQUEE></h3></font>
+    <h3 align=right MARQUEE scrollDelay="28">< behavior="alternate" bgcolor="gold" height="66"font color="#ff0000">Это моя любимая песенка</MARQUEE></h3></font>
     <p align=left> <font face="Comic sans ms">
 
     <p align=centre>в лесу родилась <image src="елка.jpg"> <!-- выравнивание текста типо align там стороны еще можно margin можно padding  --></image><i>елочка</i><br> в лесу она росла.</font><br>
