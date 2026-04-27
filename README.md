@@ -14,7 +14,7 @@
 
     <p align=centre>Привет это моя первая страничка!</MARQUEE></p></big></font>
     <font color="ffff00"></font>
-    <h1 align=left>Меня зовут Слава и аружан</h1>
+    <h1 align=left>Меня зовут Слава </h1>
     <h2 align=center>Мы учимся в 11 классе</h2>
     <h3 align=right behavior="alternate" bgcolor="gold" height="66"font color="#ff0000"> Это моя любимая песенка></h3></font>
     <p align=left> <font face="Comic sans ms">
